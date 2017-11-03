@@ -1,0 +1,10 @@
+Flask==0.10.1
+PyMySQL==0.6.7
+Flask-SQLAlchemy==2.1
+flask-script
+Flask-WTF==0.14
+Flask-Migrate==1.6.0
+py-bcrypt==0.4
+python-slugify==1.1.4
+Flask-Markdown
+Flask-Uploads==0.2.0
