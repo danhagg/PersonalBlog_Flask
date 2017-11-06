@@ -1,7 +1,6 @@
 import os
 import sys
 # allows python to know starting point of app and find other folders in app
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from flask_script import Manager, Server
 from flask_migrate import MigrateCommand
